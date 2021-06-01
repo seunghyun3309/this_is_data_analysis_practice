@@ -11,3 +11,8 @@
 ### 4) 선수 연봉 예측하기
 ![연봉5](https://user-images.githubusercontent.com/55770836/120138496-8f56e000-c211-11eb-9a06-93b3a83d729b.JPG)
 ![연봉6](https://user-images.githubusercontent.com/55770836/120138594-bad9ca80-c211-11eb-9bb7-c33ecfad6aaa.png)
+
+### 5) 예측 결과
+![예측율 결과](https://user-images.githubusercontent.com/55770836/120333632-d7b5f100-c32a-11eb-9a8d-a83020d97954.JPG)
+
+## 약 76%의 정확도를 보이며 비통계적 요소(선수의 평판, 팀 내부 평가 등)도 고려해야 한다.
